@@ -22,5 +22,7 @@ public class exerc2 {
 			}
 		}
 		System.out.printf("Menor número é " + menor + " na posicao " + indiceMenor);
+
+		sc.close();
 	}
 }

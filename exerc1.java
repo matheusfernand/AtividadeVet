@@ -22,5 +22,7 @@ public class exerc1 {
 			}
 		}
 		System.out.printf("Maior número é " + maior + " na posicao " + indiceMaior);
+
+		sc.close();
 	}
 }
