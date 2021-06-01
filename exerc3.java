@@ -12,7 +12,7 @@ public class exerc3 {
 		int[] vetor = new int[5];
 
 		for (int i = 0; i < 5; i++) {
-			System.out.println("Insira o numero para a posicao " + i + ":");
+			System.out.println("Insira o numero para a posicao " + i + ": ");
 			vetor[i] = sc.nextInt();
 		}
 		Arrays.sort(vetor);
