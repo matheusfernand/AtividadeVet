@@ -10,9 +10,9 @@ public class exerc4 {
 		Scanner sc = new Scanner(System.in);
 
 		int vetor[] = new int[10];
-			System.out.println("Digite um numero:");
+			System.out.println("Digite um numero: ");
 		int numero = sc.nextInt();
-			System.out.println("Digite a razao:");
+			System.out.println("Digite a razao: ");
 		int razao = sc.nextInt();
 		for (int i = 0; i < 10; i++) {
 			numero = numero + razao;
