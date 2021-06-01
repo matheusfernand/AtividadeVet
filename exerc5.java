@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class exerc5 {
 
 	public static void main(String[] args) {
-		
+
 		Scanner sc = new Scanner(System.in);
 
 		int vetor[] = new int[10];
@@ -18,7 +18,7 @@ public class exerc5 {
 			numero = numero * razao;
 			vetor[i] = numero;
 		}
-		System.out.print("A progressao geométrica fica: ");
+		System.out.print("A progressão geométrica fica: ");
 		System.out.println(Arrays.toString(vetor));
 
 		sc.close();
