@@ -18,7 +18,7 @@ public class exerc4 {
 			numero = numero + razao;
 			vetor[i] = numero;
 		}
-		System.out.print("A progressao aritmética fica: ");
+		System.out.print("A progressão aritmética fica: ");
 		System.out.println(Arrays.toString(vetor));
 
 		sc.close();
