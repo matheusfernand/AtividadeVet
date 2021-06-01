@@ -44,7 +44,7 @@ public class exerc6 {
 			} else if (n == vetor[9]) {
 				System.out.println("Você acertou o número " + n + " na posição 10!");
 			} else {
-				System.out.println("Você não acertou nenhum número, tente novamente!");
+				System.out.println("Você não acertou nenhum número, tente novamente.");
 			}
 		}
 		sc.close();
